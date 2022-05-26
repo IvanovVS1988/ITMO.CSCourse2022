@@ -2,7 +2,6 @@
 
     class Utils
     {
-
         public static void Reverse(ref string s)   //Reverse the string
         {
             string sRev = "";
